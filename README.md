@@ -1,2 +1,2 @@
-# cit406
+# CIT406
 Alejandro Uribe
